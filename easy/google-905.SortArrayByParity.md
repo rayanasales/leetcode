@@ -10,7 +10,7 @@
 
 ## Solution
 
-```jsx
+```js
 var sortArrayByParity = function (nums) {
   let evens = [];
   let odds = [];

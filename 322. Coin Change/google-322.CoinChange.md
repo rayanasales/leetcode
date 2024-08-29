@@ -59,7 +59,7 @@ Not directly. Although the exercise mentions BFS as a topic, the approach we use
 
 # Commented Solution in Javascript
 
-```jsx
+```js
 var coinChange = function (coins, amount) {
   let dp = Array(amount + 1).fill(Infinity); // Create an array to store the minimum coins needed for each amount
   dp[0] = 0; // Base case: 0 coins are needed to make amount 0

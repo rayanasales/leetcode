@@ -10,7 +10,7 @@
 
 ## Solution
 
-```jsx
+```js
 function isValid(s) {
   // Early exit for strings with odd lengths.
   // If the string length is odd, it can never be valid, so we immediately return false.
