@@ -1,14 +1,20 @@
 # 70. Climbing Stairs
 
-## Found at (page 2)
+### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-[Resource Library – Google Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?programming_languages=javascript&types=coding-question)
+**_🪴 Difficulty: `Easy`_**
 
-## Leetcode link
+**_❤️ Leetcode Problem Description: [Climbing Stairs - Problem - Description](https://leetcode.com/problems/climbing-stairs/description/)_**
 
-[Climbing Stairs - LeetCode](https://leetcode.com/problems/climbing-stairs/)
+**_❤️ Leetcode Solution by Rayana Sales: [Climbing Stairs - Solution - Rayana Sales](https://leetcode.com/problems/climbing-stairs/solutions/5647628/simple-beginner-friendly-javascript-solution-explanation/)_**
 
-## Code with Detailed Comments
+**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+
+**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+
+---
+
+## Solution in javascript
 
 ```javascript
 function climbStairs(n) {
@@ -97,8 +103,8 @@ function climbStairs(n) {
 - **Final Return**:
   - Return `second` which is `8`.
 
-## Leetcode post
+---
 
-Simple, beginner friendly 🎯💯❤️‍🔥🏆🥇 Javascript solution & explanation ❤️❤️❤️
+# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
 
-[Climbing Stairs - LeetCode](https://leetcode.com/problems/climbing-stairs/solutions/5647628/simple-beginner-friendly-javascript-solution-explanation/)
+## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
