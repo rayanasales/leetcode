@@ -1,14 +1,20 @@
 # 20. Valid Parentheses
 
-## Found at
+### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-[Interview Prep – Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?programming_languages=javascript)
+**_🪴 Difficulty: `Easy`_**
 
-## Leetcode link
+**_❤️ Leetcode Problem Description: [Valid Parentheses - Problem - Description](https://leetcode.com/problems/valid-parentheses/description/)_**
 
-[Valid Parentheses - LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
+**_❤️ Leetcode Solution by Rayana Sales: [Valid Parentheses - Solution - Rayana Sales](https://leetcode.com/problems/valid-parentheses/solutions/5645928/runtime-45-ms-beats-97-68-javascript-solution-explanation/)_**
 
-## Solution
+**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+
+**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+
+---
+
+## Commented Solution in Javascript
 
 ```js
 function isValid(s) {
@@ -149,8 +155,8 @@ This logic ensures that every closing bracket matches the most recent unmatched 
 
    The stack is now empty, and we've processed all characters. The input string is valid, so the output is `true`.
 
-## Leetcode post
+---
 
-**Runtime 45 ms Beats 97.68% 🎯💯❤️‍🔥🏆🥇 Javascript solution & explanation 💸🤑💰💲🍾🕶🤏**
+# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
 
-https://leetcode.com/problems/valid-parentheses/solutions/5645928/runtime-45-ms-beats-97-68-javascript-solution-explanation/
+## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
