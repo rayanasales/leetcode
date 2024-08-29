@@ -1,14 +1,20 @@
 # 575. Distribute Candies
 
-## Found at
+### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-[Interview Prep – Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?programming_languages=javascript)
+**_🪴 Difficulty: `Easy`_**
 
-## Leetcode link
+**_❤️ Leetcode Problem Description: [Distribute Candies - Problem - Description](https://leetcode.com/problems/distribute-candies/description/)_**
 
-[Distribute Candies - LeetCode](https://leetcode.com/problems/distribute-candies/description/)
+**_❤️ Leetcode Solution by Rayana Sales: [Distribute Candies - Solution - Rayana Sales](https://leetcode.com/problems/distribute-candies/solutions/5640796/simple-beginner-friendly-575-distribute-candies/)_**
 
-## Solution
+**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+
+**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+
+---
+
+## Commented Solution in Javascript
 
 ```js
 var distributeCandies = function (candyType) {
@@ -18,11 +24,7 @@ var distributeCandies = function (candyType) {
 };
 ```
 
-## Explanation
-
-1. **Unique Candy Types**: We use a `Set` to find out how many unique types of candies there are. The `Set` automatically removes duplicates, so its size gives us the number of unique candy types.
-2. **Maximum Candies Alice Can Eat**: According to the problem, Alice can eat `n / 2` candies, where `n` is the total number of candies.
-3. **Return the Result**: Alice can eat either the number of unique candy types or the maximum candies she is allowed to eat, whichever is smaller. This is done using the `Math.min` function.
+## Background: everything you need to know
 
 ### What is a `Set`?
 
@@ -46,6 +48,8 @@ If we used an array to store unique types of candies, we would need to manually 
 
 In this problem, the `Set` simplifies the process of finding the number of unique candy types, making it the ideal choice.
 
-## Leetcode post
+---
 
-[Distribute Candies - LeetCode](https://leetcode.com/problems/distribute-candies/solutions/5640796/simple-beginner-friendly-575-distribute-candies/)
+# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+
+## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
