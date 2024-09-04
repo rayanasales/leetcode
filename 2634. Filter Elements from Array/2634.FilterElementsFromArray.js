@@ -1,15 +1,3 @@
-# 2634. Filter Elements from Array
-
-[🍄 2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)
-
-<aside>
-⏰ Solved in 02:54
-</aside>
-</br>
-
-# Solution
-
-```js
 /**
  * @param {number[]} arr
  * @param {Function} fn
@@ -26,4 +14,3 @@ var filter = function (arr, fn) {
 
   return result;
 };
-```

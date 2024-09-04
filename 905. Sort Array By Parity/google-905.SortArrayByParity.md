@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**🪴 Difficulty: `Easy`**
+**_🌱 Difficulty: `Easy`_**
 
 **❤️ Leetcode Problem Description: [Sort Array By Parity - Problem - Description](https://leetcode.com/problems/sort-array-by-parity/description/)**
 
