@@ -1,15 +1,3 @@
-# 2629. Function Composition
-
-[🍄 2629. Function Composition](https://leetcode.com/problems/function-composition/description/)
-
-<aside>
-⏰ Solved in 09:47
-</aside>
-</br>
-
-# Solution
-
-```js
 /**
  * @param {Function[]} functions
  * @return {Function}
@@ -26,9 +14,3 @@ var compose = function (functions) {
     return current;
   };
 };
-
-/**
- * const fn = compose([x => x + 1, x => 2 * x])
- * fn(4) // 9
- */
-```
