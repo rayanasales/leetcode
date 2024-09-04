@@ -28,7 +28,7 @@ Got a better solution? Found a bug? Want to add more problems? Awesome! Contribu
 
 - **LeetCode**: [Rayana Sales on LeetCode](https://leetcode.com/rayanasales/)
 - **GitHub**: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
-- **Twitter**: [@RayanaSales](https://twitter.com/RayanaSales)
+- **Twitter**: [@RayanaASales](https://twitter.com/RayanaASales)
 
 ## 🌟 Show Your Support
 

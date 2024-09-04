@@ -1,16 +1,3 @@
-# 2704. To Be Or Not To Be
-
-[🍄 2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
-</br>
-⏰ Solved in 06:45 mins
-
-# Original solution
-
-```js
-/**
- * @param {string} val
- * @return {Object}
- */
 var expect = function (val) {
   function toBe(sencondVal) {
     if (val === sencondVal) return true;
@@ -30,7 +17,7 @@ var expect = function (val) {
 };
 
 /**
+ * Usage example:
  * expect(5).toBe(5); // true
  * expect(5).notToBe(5); // throws "Equal"
  */
-```
