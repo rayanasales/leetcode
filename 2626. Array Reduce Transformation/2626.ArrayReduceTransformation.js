@@ -1,15 +1,3 @@
-# 2626. Array Reduce Transformation
-
-[🍄 2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)
-
-<aside>
-⏰ Solved in 07:30
-</aside>
-</br>
-
-# Solution
-
-```js
 var reduce = function (nums, fn, init) {
   if (nums.length === 0) {
     return init;
@@ -19,4 +7,3 @@ var reduce = function (nums, fn, init) {
     return fn(accumulator, currentValue);
   }, init); // initial value of accumulator
 };
-```
