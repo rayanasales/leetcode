@@ -1,12 +1,3 @@
-# 2677. Chunk Array
-
-[🍄 2677. Chunk Array](https://leetcode.com/problems/chunk-array/description/)
-</br>
-⏰ Solved in 48:58 mins
-
-# Original solution
-
-```js
 var chunk = function (arr, size) {
   let result = [];
 
@@ -15,4 +6,3 @@ var chunk = function (arr, size) {
   }
   return result;
 };
-```
