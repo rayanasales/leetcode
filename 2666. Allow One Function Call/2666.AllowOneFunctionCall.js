@@ -1,15 +1,3 @@
-# 2666. Allow One Function Call
-
-[🍄 2666. Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)
-
-<aside>
-⏰ Solved in 06:37
-</aside>
-</br>
-
-# Solution
-
-```js
 /**
  * @param {Function} fn
  * @return {Function}
@@ -27,10 +15,10 @@ var once = function (fn) {
 };
 
 /**
+ * Usage example
  * let fn = (a,b,c) => (a + b + c)
  * let onceFn = once(fn)
  *
  * onceFn(1,2,3); // 6
  * onceFn(2,3,6); // returns undefined without calling fn
  */
-```
