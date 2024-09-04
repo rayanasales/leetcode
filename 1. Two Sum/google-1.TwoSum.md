@@ -2,15 +2,15 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🪴 Difficulty: `Easy`_**
+🪴 Difficulty: `Easy`
 
-**_❤️ Leetcode Problem Description: [Two Sum - Problem - Description](https://leetcode.com/problems/two-sum/description/?envType=company&envId=google&favoriteSlug=google-thirty-days)_**
+❤️ Leetcode Problem Description: [Two Sum - Problem - Description](https://leetcode.com/problems/two-sum/description/?envType=company&envId=google&favoriteSlug=google-thirty-days)
 
-**_❤️ Leetcode Solution by Rayana Sales: [Two Sum - Solution - Rayana Sales](https://leetcode.com/problems/two-sum/solutions/5628706/simple-beginner-friendly-two-sum/)_**
+❤️ Leetcode Solution by Rayana Sales: [Two Sum - Solution - Rayana Sales](https://leetcode.com/problems/two-sum/solutions/5628706/simple-beginner-friendly-two-sum/)
 
-**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
@@ -39,6 +39,6 @@ var twoSum = function (nums, target) {
 
 ---
 
-# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
+## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘

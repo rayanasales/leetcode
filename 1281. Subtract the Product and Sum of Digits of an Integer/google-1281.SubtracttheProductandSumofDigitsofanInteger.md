@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🌱 Difficulty: `Easy`_**
+🌱 Difficulty: `Easy`
 
 **❤️ Leetcode Problem Description: [Subtract the Product and Sum of Digits of an Integer - Problem - Description](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)**
 

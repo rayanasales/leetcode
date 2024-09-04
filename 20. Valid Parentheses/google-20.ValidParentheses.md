@@ -2,15 +2,15 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🪴 Difficulty: `Easy`_**
+🪴 Difficulty: `Easy`
 
-**_❤️ Leetcode Problem Description: [Valid Parentheses - Problem - Description](https://leetcode.com/problems/valid-parentheses/description/)_**
+❤️ Leetcode Problem Description: [Valid Parentheses - Problem - Description](https://leetcode.com/problems/valid-parentheses/description/)
 
-**_❤️ Leetcode Solution by Rayana Sales: [Valid Parentheses - Solution - Rayana Sales](https://leetcode.com/problems/valid-parentheses/solutions/5645928/runtime-45-ms-beats-97-68-javascript-solution-explanation/)_**
+❤️ Leetcode Solution by Rayana Sales: [Valid Parentheses - Solution - Rayana Sales](https://leetcode.com/problems/valid-parentheses/solutions/5645928/runtime-45-ms-beats-97-68-javascript-solution-explanation/)
 
-**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
@@ -157,6 +157,6 @@ This logic ensures that every closing bracket matches the most recent unmatched 
 
 ---
 
-# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
+## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘

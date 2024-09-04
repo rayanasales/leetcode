@@ -2,15 +2,15 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🪴 Difficulty: `Medium`_**
+🪴 Difficulty: `Medium`
 
-**_❤️ Leetcode Problem Description: [Coin Change - Problem - Description](https://leetcode.com/problems/coin-change/description/)_**
+❤️ Leetcode Problem Description: [Coin Change - Problem - Description](https://leetcode.com/problems/coin-change/description/)
 
-**_❤️ Leetcode Solution by Rayana Sales: [Coin Change - Solution - Rayana Sales](https://leetcode.com/problems/coin-change/solutions/5637020/322-coin-change-10-lines-solution/)_**
+❤️ Leetcode Solution by Rayana Sales: [Coin Change - Solution - Rayana Sales](https://leetcode.com/problems/coin-change/solutions/5637020/322-coin-change-10-lines-solution/)
 
-**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
@@ -90,6 +90,6 @@ var coinChange = function (coins, amount) {
 
 ---
 
-# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
+## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘

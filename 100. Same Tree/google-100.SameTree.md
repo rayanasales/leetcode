@@ -2,15 +2,15 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🪴 Difficulty: `Easy`_**
+🪴 Difficulty: `Easy`
 
-**_❤️ Leetcode Problem Description: [Same Tree - Problem - Description](https://leetcode.com/problems/same-tree/description/)_**
+❤️ Leetcode Problem Description: [Same Tree - Problem - Description](https://leetcode.com/problems/same-tree/description/)
 
-**_❤️ Leetcode Solution by Rayana Sales: [Same Tree - Solution - Rayana Sales](https://leetcode.com/problems/same-tree/solutions/5643019/simple-beginner-friendly-100-same-tree/)_**
+❤️ Leetcode Solution by Rayana Sales: [Same Tree - Solution - Rayana Sales](https://leetcode.com/problems/same-tree/solutions/5643019/simple-beginner-friendly-100-same-tree/)
 
-**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
@@ -76,6 +76,6 @@ var isSameTree = function (p, q) {
 
 ---
 
-# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
+## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘

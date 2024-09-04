@@ -2,15 +2,15 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-**_🪴 Difficulty: `Easy`_**
+🪴 Difficulty: `Easy`
 
-**_❤️ Leetcode Problem Description: [Climbing Stairs - Problem - Description](https://leetcode.com/problems/climbing-stairs/description/)_**
+❤️ Leetcode Problem Description: [Climbing Stairs - Problem - Description](https://leetcode.com/problems/climbing-stairs/description/)
 
-**_❤️ Leetcode Solution by Rayana Sales: [Climbing Stairs - Solution - Rayana Sales](https://leetcode.com/problems/climbing-stairs/solutions/5647628/simple-beginner-friendly-javascript-solution-explanation/)_**
+❤️ Leetcode Solution by Rayana Sales: [Climbing Stairs - Solution - Rayana Sales](https://leetcode.com/problems/climbing-stairs/solutions/5647628/simple-beginner-friendly-javascript-solution-explanation/)
 
-**_💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)_**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**_❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥_**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
@@ -105,6 +105,6 @@ function climbStairs(n) {
 
 ---
 
-# **_HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️_**
+# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## **_Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘_**
+## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
