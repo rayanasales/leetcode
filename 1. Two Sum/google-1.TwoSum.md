@@ -39,6 +39,6 @@ var twoSum = function (nums, target) {
 
 ---
 
-# HOPE YOU ENJOYED MY EXPLANATION. UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
+# Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
-## Check out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
