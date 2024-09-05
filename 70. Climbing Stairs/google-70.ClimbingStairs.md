@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-🪴 Difficulty: `Easy`
+🌱 Difficulty: `Easy`
 
 ❤️ Leetcode Problem Description: [Climbing Stairs - Problem - Description](https://leetcode.com/problems/climbing-stairs/description/)
 
@@ -16,7 +16,7 @@
 
 ## Solution in javascript
 
-```javascript
+```javascript []
 function climbStairs(n) {
   // Base cases: if there is only 1 or 2 steps, the number of ways to climb is equal to n
   if (n === 1) return 1;

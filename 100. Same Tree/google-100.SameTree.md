@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-🪴 Difficulty: `Easy`
+🌱 Difficulty: `Easy`
 
 ❤️ Leetcode Problem Description: [Same Tree - Problem - Description](https://leetcode.com/problems/same-tree/description/)
 
@@ -55,9 +55,9 @@ BFS is useful for finding the shortest path in an unweighted graph (where all ed
 
 Not directly. The "Same Tree" problem is solved using a recursive approach rather than BFS. However, BFS can be used in tree problems where level-order traversal is required.
 
-# Commented Solution in Javascript
+# Commented Solution
 
-```javascript
+```javascript []
 var isSameTree = function (p, q) {
   // Base case 1: Both nodes are null, which means we have reached the end of the tree in both cases, so they are the same.
   if (!p && !q) return true;

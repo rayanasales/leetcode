@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-🪴 Difficulty: `Easy`
+🌱 Difficulty: `Easy`
 
 ❤️ Leetcode Problem Description: [Distribute Candies - Problem - Description](https://leetcode.com/problems/distribute-candies/description/)
 

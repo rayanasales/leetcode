@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-🪴 Difficulty: `Easy`
+🌱 Difficulty: `Easy`
 
 ❤️ Leetcode Problem Description: [Valid Parentheses - Problem - Description](https://leetcode.com/problems/valid-parentheses/description/)
 
@@ -14,9 +14,9 @@
 
 ---
 
-## Commented Solution in Javascript
+## Commented Solution
 
-```js
+```Javascript []
 function isValid(s) {
   // Early exit for strings with odd lengths.
   // If the string length is odd, it can never be valid, so we immediately return false.

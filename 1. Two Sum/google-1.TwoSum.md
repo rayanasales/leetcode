@@ -2,7 +2,7 @@
 
 ### I GOT THIS CHALLENGE ON A GOOGLE INTERVIEW 🆘⚠️🚨S🛟S
 
-🪴 Difficulty: `Easy`
+🌱 Difficulty: `Easy`
 
 ❤️ Leetcode Problem Description: [Two Sum - Problem - Description](https://leetcode.com/problems/two-sum/description/?envType=company&envId=google&favoriteSlug=google-thirty-days)
 
