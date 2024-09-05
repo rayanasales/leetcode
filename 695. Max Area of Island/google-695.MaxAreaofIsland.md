@@ -39,9 +39,9 @@ DFS is particularly useful when you need to:
    - Sum all connected cells that are also `1` to calculate the island's area.
 3. **Compare Areas:** With each new island found, we compare its area with the largest area found so far. If it's larger, we update the maximum area value.
 
-## Javascript Implementation
+## Solution
 
-```js
+```Javascript []
 var maxAreaOfIsland = function (grid) {
   let maxArea = 0; // Stores the largest island area found so far
   let rows = grid.length; // Number of rows in the matrix
@@ -115,3 +115,5 @@ Steps Summary
 # Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
 and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+
+![image.png](https://assets.leetcode.com/users/images/57bce3b1-56e2-4c20-9cdf-b61fef26b93b_1725494158.6252415.png)

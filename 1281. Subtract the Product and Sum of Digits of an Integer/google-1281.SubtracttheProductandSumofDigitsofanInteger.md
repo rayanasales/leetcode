@@ -4,19 +4,19 @@
 
 🌱 Difficulty: `Easy`
 
-**❤️ Leetcode Problem Description: [Subtract the Product and Sum of Digits of an Integer - Problem - Description](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)**
+❤️ Leetcode Problem Description: [Subtract the Product and Sum of Digits of an Integer - Problem - Description](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 
-**❤️ Leetcode Solution by Rayana Sales: [Subtract the Product and Sum of Digits of an Integer - Solution - Rayana Sales](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/5642606/simple-beginner-friendly-1281-subtract-the-product-and-sum-of-digits-of-an-integer/)**
+❤️ Leetcode Solution by Rayana Sales: [Subtract the Product and Sum of Digits of an Integer - Solution - Rayana Sales](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/5642606/simple-beginner-friendly-1281-subtract-the-product-and-sum-of-digits-of-an-integer/)
 
-**💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
 ## Super Easy Code in Javascript
 
-```javascript
+```Javascript []
 var subtractProductAndSum = function (num) {
   let numAsStr = num.toString();
   let product = 1;
@@ -37,3 +37,5 @@ var subtractProductAndSum = function (num) {
 # Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
 and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+
+![image.png](https://assets.leetcode.com/users/images/57bce3b1-56e2-4c20-9cdf-b61fef26b93b_1725494158.6252415.png)

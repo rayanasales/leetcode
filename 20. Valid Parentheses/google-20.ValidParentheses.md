@@ -160,3 +160,5 @@ This logic ensures that every closing bracket matches the most recent unmatched 
 # Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
 and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+
+![image.png](https://assets.leetcode.com/users/images/57bce3b1-56e2-4c20-9cdf-b61fef26b93b_1725494158.6252415.png)

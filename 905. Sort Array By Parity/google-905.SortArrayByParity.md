@@ -4,19 +4,19 @@
 
 🌱 Difficulty: `Easy`
 
-**❤️ Leetcode Problem Description: [Sort Array By Parity - Problem - Description](https://leetcode.com/problems/sort-array-by-parity/description/)**
+❤️ Leetcode Problem Description: [Sort Array By Parity - Problem - Description](https://leetcode.com/problems/sort-array-by-parity/description/)
 
-**❤️ Leetcode Solution by Rayana Sales: [Sort Array By Parity - Solution - Rayana Sales](https://leetcode.com/problems/sort-array-by-parity/solutions/5642902/simple-beginner-friendly-905-sort-array-by-parity/)**
+❤️ Leetcode Solution by Rayana Sales: [Sort Array By Parity - Solution - Rayana Sales](https://leetcode.com/problems/sort-array-by-parity/solutions/5642902/simple-beginner-friendly-905-sort-array-by-parity/)
 
-**💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)**
+💁🏻‍♀️ All my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode)
 
-**❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥**
+❤️‍🔥❤️‍🔥❤️‍🔥 If it's help, please up 🔝 vote! ❤️‍🔥❤️‍🔥❤️‍🔥
 
 ---
 
 ## Commented Solution in Javascript
 
-```js
+```Javascript []
 var sortArrayByParity = function (nums) {
   let evens = [];
   let odds = [];
@@ -30,3 +30,5 @@ var sortArrayByParity = function (nums) {
 # Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
 and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+
+![image.png](https://assets.leetcode.com/users/images/57bce3b1-56e2-4c20-9cdf-b61fef26b93b_1725494158.6252415.png)

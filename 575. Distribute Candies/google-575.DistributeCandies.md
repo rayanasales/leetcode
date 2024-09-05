@@ -16,7 +16,7 @@
 
 ## Commented Solution in Javascript
 
-```js
+```Javascript []
 var distributeCandies = function (candyType) {
   const uniqueCandies = new Set(candyType).size; // Get the total number of unique candy types
   const maxCandies = candyType.length / 2; // Calculate the maximum number of candies Alice can eat, which is half the total number of candies
@@ -53,3 +53,5 @@ In this problem, the `Set` simplifies the process of finding the number of uniqu
 # Please UPVOTE if this was helpful 🔝🔝🔝❤️❤️❤️
 
 and check it out all my solved LeetCode problems on GitHub: [rayanasales/leetcode](https://github.com/rayanasales/leetcode) 🤙😚🤘
+
+![image.png](https://assets.leetcode.com/users/images/57bce3b1-56e2-4c20-9cdf-b61fef26b93b_1725494158.6252415.png)
