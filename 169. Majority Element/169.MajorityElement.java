@@ -11,8 +11,7 @@ class Solution {
                 candidate = num;
             }
 
-            // If the current number is equal to the candidate, increment the count
-            // Otherwise, decrement the count
+            // If the current number is equal to the candidate, increment the count. Otherwise, decrement the count
             if (num == candidate) {
                 count++;
             } else {
